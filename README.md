@@ -85,4 +85,5 @@ References:
 2. [Marxent Labs - USD Files](https://www.marxentlabs.com/usd-files/)
 3. [OpenUSD - USD FAQ](https://openusd.org/release/usdfaq.html)
 4. [KhronosGroup - glTF GitHub Repository](https://github.com/KhronosGroup/glTF)
+5. [Ben Houston's on 3D File Formats - Threekit - When Should You Use FBX 3D File Format?](https://www.threekit.com/blog/when-should-you-use-fbx-3d-file-format)
 
