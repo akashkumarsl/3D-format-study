@@ -2,7 +2,7 @@
 
 ## OBJ Format:
 **Features:**
-The biggest strength of the OBJ file format (and its sister MAT material definition file format) is that it is text-based and very simple to understand.
+- The biggest strength of the OBJ file format (and its sister MAT material definition file format) is that it is text-based and very simple to understand.
 - Simple and widely supported 3D file format that describes objects rather than scenes
 - Can be used for simple geometry interchange
 - Supports basic 3D model geometry and texture mapping
